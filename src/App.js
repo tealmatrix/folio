@@ -1,5 +1,5 @@
 import logo from "./logo.svg";
-import "./App.css";
+import "./App.CSS";
 import Container from "react-bootstrap/Container";
 import Gallery from "react-photo-gallery";
 import { Button, Navbar, Nav, NavDropdown, Jumbotron } from "react-bootstrap";
@@ -11,7 +11,7 @@ import Gallery1 from "react-grid-gallery";
 
 import precog from "./images/precog.png";
 import todo from "./images/todo.png";
-import "./App.css";
+import "./App.CSS";
 const IMAGES = [
   {
     src: "https://i.imgur.com/nQJXe93.png",

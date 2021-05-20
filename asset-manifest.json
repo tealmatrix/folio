@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/tealmatrix/folio.git/static/css/main.a2213fec.chunk.css",
+    "main.js": "/tealmatrix/folio.git/static/js/main.e61c7f00.chunk.js",
+    "main.js.map": "/tealmatrix/folio.git/static/js/main.e61c7f00.chunk.js.map",
+    "runtime-main.js": "/tealmatrix/folio.git/static/js/runtime-main.2e77de8c.js",
+    "runtime-main.js.map": "/tealmatrix/folio.git/static/js/runtime-main.2e77de8c.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/tealmatrix/folio.git/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.33917a26.chunk.js": "/tealmatrix/folio.git/static/js/2.33917a26.chunk.js",
+    "static/js/2.33917a26.chunk.js.map": "/tealmatrix/folio.git/static/js/2.33917a26.chunk.js.map",
+    "static/js/3.0b63749a.chunk.js": "/tealmatrix/folio.git/static/js/3.0b63749a.chunk.js",
+    "static/js/3.0b63749a.chunk.js.map": "/tealmatrix/folio.git/static/js/3.0b63749a.chunk.js.map",
+    "index.html": "/tealmatrix/folio.git/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/tealmatrix/folio.git/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.a2213fec.chunk.css.map": "/tealmatrix/folio.git/static/css/main.a2213fec.chunk.css.map",
+    "static/js/2.33917a26.chunk.js.LICENSE.txt": "/tealmatrix/folio.git/static/js/2.33917a26.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/tealmatrix/folio.git/static/media/theLite2.a40abaac.png",
+    "static/media/comicgame.9ab7fdce.png": "/tealmatrix/folio.git/static/media/comicgame.9ab7fdce.png",
+    "static/media/home.8bab29c4.png": "/tealmatrix/folio.git/static/media/home.8bab29c4.png",
+    "static/media/logo.6ce24c58.svg": "/tealmatrix/folio.git/static/media/logo.6ce24c58.svg",
+    "static/media/precog.dc4379fe.png": "/tealmatrix/folio.git/static/media/precog.dc4379fe.png",
+    "static/media/todo.6cac39df.png": "/tealmatrix/folio.git/static/media/todo.6cac39df.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e77de8c.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.33917a26.chunk.js",
+    "static/css/main.a2213fec.chunk.css",
+    "static/js/main.e61c7f00.chunk.js"
+  ]
+}
